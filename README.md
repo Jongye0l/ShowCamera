@@ -19,3 +19,5 @@
 ### 테스트 환경 Test environment
 * Windows 11
 * A Dance of Fire and Ice 2.6.4(r121, 9248fb6)
+---
+# [Join My Discord!](https://discord.jongyeol.kr)
