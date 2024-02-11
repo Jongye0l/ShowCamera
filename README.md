@@ -1,4 +1,8 @@
 # ShowCamera
+![C#](https://img.shields.io/badge/Lang-Csharp-c9c8e4.svg?&logo=csharp)
+![Rider](https://img.shields.io/badge/IDE-Rider-c9c8e4.svg?&logo=rider)
+![Download](https://img.shields.io/github/downloads/Jongye0l/ShowCamera/ShowCamera.zip)
+
 ---
 ### 소개 Information
 * 얼불춤에 웹캠을 표시합니다.
